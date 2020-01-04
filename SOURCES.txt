@@ -1,0 +1,9 @@
+README.md
+setup.py
+docsearch/__init__.py
+docsearch/docsearch.py
+docsearch.egg-info/PKG-INFO
+docsearch.egg-info/SOURCES.txt
+docsearch.egg-info/dependency_links.txt
+docsearch.egg-info/requires.txt
+docsearch.egg-info/top_level.txt

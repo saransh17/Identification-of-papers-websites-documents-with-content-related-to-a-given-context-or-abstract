@@ -1,0 +1,6 @@
+scipy
+stop_words
+nltk
+gensim
+pyemd
+pandas

@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: docsearch
+Version: 1.0
+Summary: Python Module for searching similar documents from a large corpus.
+Home-page: https://github.com/ankushbhatia2/docsearch
+Author: Ankush Bhatia
+Author-email: ankushbhatia02@gmail.com
+License: Apache License 2.0
+Download-URL: https://github.com/ankushbhatia2/docsearch/archive/1.0.tar.gz
+Description: UNKNOWN
+Keywords: information retrieval,document similarity,lda,nlp,earth movers distance,jenson shannon
+Platform: UNKNOWN
